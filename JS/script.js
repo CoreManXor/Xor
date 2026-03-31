@@ -1,1 +1,1 @@
-h
+alert("Welcome");
