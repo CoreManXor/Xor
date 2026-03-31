@@ -79,7 +79,7 @@ ul li a {
 #home::before {
     content: "";
     position: absolute;
-    background: url("bg.png");
+    background: url("/bg.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
