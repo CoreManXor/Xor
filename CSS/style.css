@@ -108,3 +108,8 @@ ul li a {
     text-shadow: 1px 1px 1px black;
     font-weight: bold;
 }
+#box{
+width=75px;
+height=75px;
+border:2px solid black;
+}
